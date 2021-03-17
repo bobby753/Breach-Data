@@ -24,3 +24,6 @@
 
 ## Check whether passwords are leaked in any breach 
 ### [HaveIBeenPwned](https://haveibeenpwned.com/)
+
+## Online links to search for specific mails in Breached Data
+### [BreachDirectory](https://breachdirectory.tk/)
